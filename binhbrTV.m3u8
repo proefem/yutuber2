@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3019179,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio1",SUBTITLES="subs"
-http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
+https://trn10.tulix.tv/gt-beinsportshaber/tracks-v1a1/mono.m3u8
